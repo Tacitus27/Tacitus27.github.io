@@ -428,6 +428,7 @@ var $board = $('.board'),
         $('[name="availablePowertokens-targaryen"]').val(conf.availablePowertokens.targaryen);
         $('[name="availablePowertokens-tully"]').val(conf.availablePowertokens.tully);
         $('[name="availablePowertokens-tyrell"]').val(conf.availablePowertokens.tyrell);
+        $('[name="availablePowertokens-yunkai"]').val(conf.availablePowertokens.yunkai);
 
         $('[name="maxPowertokens"]').val(conf.maxPowertokens);
     };
