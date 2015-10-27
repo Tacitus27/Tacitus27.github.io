@@ -190,7 +190,8 @@ var $board = $('.board'),
                 "stark": $('[name="housecards-stark"]').val(),
                 "targaryen": $('[name="housecards-targaryen"]').val(),
 				"tully": $('[name="housecards-tully"]').val(),
-				"tyrell": $('[name="housecards-tyrell"]').val()
+				"tyrell": $('[name="housecards-tyrell"]').val(),
+				"yunkai": $('[name="housecards-yunkai"]').val()
             },
 			
 			"housecardTracking": {
