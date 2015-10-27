@@ -286,7 +286,8 @@ var $board = $('.board'),
                 "stark": $('[name="availablePowertokens-stark"]').val(),
                 "targaryen": $('[name="availablePowertokens-targaryen"]').val(),
                 "tully": $('[name="availablePowertokens-tully"]').val(),
-                "tyrell": $('[name="availablePowertokens-tyrell"]').val()
+                "tyrell": $('[name="availablePowertokens-tyrell"]').val(),
+                "yunkai": $('[name="availablePowertokens-yunkai"]').val()
             },
             
             "maxPowertokens": $('[name="maxPowertokens"]').val()
