@@ -178,7 +178,7 @@ var $board = $('.board'),
                 "targaryen": $('[name="powertokens-targaryen"]').val(),
 				"tully": $('[name="powertokens-tully"]').val(),
 				"tyrell": $('[name="powertokens-tyrell"]').val(),
-				"yunkai": $('[name="orders-yunkai"]').val()
+				"yunkai": $('[name="powertokens-yunkai"]').val()
             },
             
             "housecards": {
